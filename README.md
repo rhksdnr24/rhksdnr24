@@ -35,3 +35,35 @@
     </tr>
   </tbody>
 </table>
+
+<h4> Blog Posts </h4>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📚 Category</b></td>
+      <td><b>🔗 Link</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>JUCE Tutorials</b></td>
+      <td><a href="https://yomatozu.tistory.com/category/JUCE_YouTube_FreeCodeCamp.Org" target="_blank">JUCE Tutorials on Tistory</a></td>
+    </tr>
+    <tr>
+      <td><b>Loudness & Level</b></td>
+      <td><a href="https://yomatozu.tistory.com/category/Loudness%20%26%20Level" target="_blank">Loudness & Level on Tistory</a></td>
+    </tr>
+    <tr>
+      <td><b>Coursera IoT Program</b></td>
+      <td><a href="https://yomatozu.tistory.com/category/Coursera_IOT%20prgrogram" target="_blank">Coursera IoT Program on Tistory</a></td>
+    </tr>
+    <tr>
+      <td><b>Coursera Digital Signal Processing</b></td>
+      <td><a href="https://yomatozu.tistory.com/category/Coursera_Digital%20Signal%20Processing" target="_blank">Coursera Digital Signal Processing on Tistory</a></td>
+    </tr>
+    <tr>
+      <td><b>Audio Signal Processing</b></td>
+      <td><a href="https://yomatozu.tistory.com/category/Audio%20Signal%20Processing" target="_blank">Audio Signal Processing on Tistory</a></td>
+    </tr>
+  </tbody>
+</table>
