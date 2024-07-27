@@ -37,6 +37,7 @@
 </table>
 
 <h4> Blog Posts </h4>
+<p>I enjoy studying and documenting my learnings. Here are some of the categories and posts I have written on my Tistory blog:</p>
 <table>
   <thead align="center">
     <tr border: none;>
