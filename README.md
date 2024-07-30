@@ -79,7 +79,7 @@
 <h5>My Certification</h5>
 <ul>
   <li><b>Information Processing Engineer (Written Exam)</b><br/>
-    <i>The Information Processing Engineer certification is a significant credential in the IT field, requiring broad knowledge in areas such as software development, system design, and database management. For more detailed information, please visit <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">here</a>.</i></li>
+    <i>For more detailed information, please visit <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">here</a>.</i></li>
 </ul>
 
 <p>I have a interest in electronics engineering and audio technologies, which I am actively studying and exploring.</p>
