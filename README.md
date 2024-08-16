@@ -82,4 +82,4 @@
     <i>For more detailed information, please visit <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">here</a>.</i></li>
 </ul>
 
-<p>I have a interest in electronics engineering and audio technologies, which I am actively studying and exploring.</p>
+<p>I have a interest in electronics engineering and DSP, which I am actively studying and exploring.</p>
