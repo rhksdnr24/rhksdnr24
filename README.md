@@ -12,6 +12,8 @@
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />  
   <img alt="JUCE" src="https://img.shields.io/badge/-JUCE-FF6347?style=flat-square&logo=juce&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+
 </p>
 
 <h3>Open Source Projects</h3>
@@ -73,13 +75,20 @@
       <td><b>Audio Signal Processing</b></td>
       <td><a href="https://yomatozu.tistory.com/category/Audio%20Signal%20Processing" target="_blank">Audio Signal Processing on Tistory</a></td>
     </tr>
+    <tr>
+      <td><b>AWS_SAA</b></td>
+      <td><a href="https://yomatozu.tistory.com/category/AWS_SAA" target="_blank">Audio Signal Processing on Tistory</a></td>
+    </tr>
+    
   </tbody>
 </table>
 
-<h5>My Certification</h5>
+<h5>My Certifications</h5>
 <ul>
-  <li><b>Information Processing Engineer (Written Exam)</b><br/>
-    <i>For more detailed information, please visit <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">here</a>.</i></li>
+  <li><b>Information Processing Engineer</b><br/>
+    <i>For more details, please visit <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">this page</a>.</i>
+  </li>
+  <li><b>AWS (Amazon Web Services) SAA (Solutions Architect Associate)</b></li>
 </ul>
 
-<p>I have a interest in electronics engineering and DSP, which I am actively studying and exploring.</p>
+<p>I have a strong interest in Cloud Engineering, which I am actively studying and exploring.</p>
