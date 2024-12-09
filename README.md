@@ -16,34 +16,6 @@
 
 </p>
 
-<h3>Open Source Projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/rhksdnr24/SimpleEQ"><b>SimpleEQ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rhksdnr24/SimpleEQ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rhksdnr24/SimpleEQ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rhksdnr24/SimpleEQ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rhksdnr24/SimpleEQ?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rhksdnr24/Arduino-Uno"><b>Arduino-Uno</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/rhksdnr24/Arduino-Uno?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/rhksdnr24/Arduino-Uno?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/rhksdnr24/Arduino-Uno?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rhksdnr24/Arduino-Uno?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 <h4> Blog Posts </h4>
 <p>I enjoy studying and documenting my learnings. Here are some of the categories and posts I have written on my Tistory blog:</p>
