@@ -20,39 +20,13 @@
 <h4> Blog Posts </h4>
 <p>I enjoy studying and documenting my learnings. Here are some of the categories and posts I have written on my Tistory blog:</p>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📚 Category</b></td>
-      <td><b>🔗 Link</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>JUCE Tutorials</b></td>
-      <td><a href="https://yomatozu.tistory.com/category/JUCE_YouTube_FreeCodeCamp.Org" target="_blank">JUCE Tutorials on Tistory</a></td>
-    </tr>
-    <tr>
-      <td><b>Loudness & Level</b></td>
-      <td><a href="https://yomatozu.tistory.com/category/Loudness%20%26%20Level" target="_blank">Loudness & Level on Tistory</a></td>
-    </tr>
-    <tr>
-      <td><b>Coursera IoT Program</b></td>
-      <td><a href="https://yomatozu.tistory.com/category/Coursera_IOT%20prgrogram" target="_blank">Coursera IoT Program on Tistory</a></td>
-    </tr>
-    <tr>
-      <td><b>Coursera Digital Signal Processing</b></td>
-      <td><a href="https://yomatozu.tistory.com/category/Coursera_Digital%20Signal%20Processing" target="_blank">Coursera Digital Signal Processing on Tistory</a></td>
-    </tr>
-    <tr>
-      <td><b>Audio Signal Processing</b></td>
-      <td><a href="https://yomatozu.tistory.com/category/Audio%20Signal%20Processing" target="_blank">Audio Signal Processing on Tistory</a></td>
-    </tr>
-    <tr>
-      <td><b>AWS_SAA</b></td>
-      <td><a href="https://yomatozu.tistory.com/category/AWS_SAA" target="_blank">Audio Signal Processing on Tistory</a></td>
-    </tr>
-    
-  </tbody>
+🔗 Learn more about my work:
+GitHub: https://github.com/rhksdnr24/rhksdnr24
+Medium: https://medium.com/@jsw4562
+Tistory: https://yomatozu.tistory.com
+
+📬 Get in touch:
+Feel free to reach out to discuss my work or potential collaborations at jsw4562@gmail.com.
 </table>
 
 <h5>My Certifications</h5>
