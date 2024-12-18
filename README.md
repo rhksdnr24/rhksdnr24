@@ -18,7 +18,7 @@
 
 
 <h4> Blog Posts </h4>
-<p>I enjoy studying and documenting my learnings. Here are some of the categories and posts I have written on my Tistory blog:</p>
+<p>I enjoy studying and documenting my learnings. Here are some of the categories and posts I have written:</p>
 <table>
 🔗 Learn more about my work:
 <p>GitHub: https://github.com/rhksdnr24/rhksdnr24</p>
