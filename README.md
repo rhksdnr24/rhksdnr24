@@ -31,9 +31,7 @@ Feel free to reach out to discuss my work or potential collaborations at jsw4562
 
 <h5>My Certifications</h5>
 <ul>
-  <li><b>Information Processing Engineer</b><br/>
-    <i>For more details, please visit <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">this page</a>.</i>
-  </li>
+  <li><a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC" target="_blank">Information Processing Engineer</a></li>
   <li><b>AWS (Amazon Web Services) SAA (Solutions Architect Associate)</b></li>
 </ul>
 
