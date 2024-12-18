@@ -21,9 +21,9 @@
 <p>I enjoy studying and documenting my learnings. Here are some of the categories and posts I have written on my Tistory blog:</p>
 <table>
 🔗 Learn more about my work:
-GitHub: https://github.com/rhksdnr24/rhksdnr24
-Medium: https://medium.com/@jsw4562
-Tistory: https://yomatozu.tistory.com
+<p>GitHub: https://github.com/rhksdnr24/rhksdnr24</p>
+<p>Medium: https://medium.com/@jsw4562</p>
+<p>Tistory: https://yomatozu.tistory.com</p>
 
 📬 Get in touch:
 Feel free to reach out to discuss my work or potential collaborations at jsw4562@gmail.com.
